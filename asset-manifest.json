@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/demo-network/static/css/main.91516356.css",
+    "main.js": "/demo-network/static/js/main.176ddd1f.js",
+    "static/css/547.042f82f3.chunk.css": "/demo-network/static/css/547.042f82f3.chunk.css",
+    "static/js/547.6cfe1d3e.chunk.js": "/demo-network/static/js/547.6cfe1d3e.chunk.js",
+    "static/css/793.2c8cf929.chunk.css": "/demo-network/static/css/793.2c8cf929.chunk.css",
+    "static/js/793.0d8eb293.chunk.js": "/demo-network/static/js/793.0d8eb293.chunk.js",
+    "static/js/787.8075abd1.chunk.js": "/demo-network/static/js/787.8075abd1.chunk.js",
+    "static/media/preloader.svg": "/demo-network/static/media/preloader.ff85086eba17aced8b0a9c9d537f6338.svg",
+    "index.html": "/demo-network/index.html",
+    "main.91516356.css.map": "/demo-network/static/css/main.91516356.css.map",
+    "main.176ddd1f.js.map": "/demo-network/static/js/main.176ddd1f.js.map",
+    "547.042f82f3.chunk.css.map": "/demo-network/static/css/547.042f82f3.chunk.css.map",
+    "547.6cfe1d3e.chunk.js.map": "/demo-network/static/js/547.6cfe1d3e.chunk.js.map",
+    "793.2c8cf929.chunk.css.map": "/demo-network/static/css/793.2c8cf929.chunk.css.map",
+    "793.0d8eb293.chunk.js.map": "/demo-network/static/js/793.0d8eb293.chunk.js.map",
+    "787.8075abd1.chunk.js.map": "/demo-network/static/js/787.8075abd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91516356.css",
+    "static/js/main.176ddd1f.js"
+  ]
+}
